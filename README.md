@@ -1,6 +1,8 @@
 # Camera2-Video
 A simple Android wrapper for interfacing with the new Camera2 API for video capture.
 
+_This is not being maintained anymore. Issue's wont be addressed, but you're more than welcome to contribute any changes_
+
 ## Usage
 ### Setup
 For an example, check out the sample app included.
